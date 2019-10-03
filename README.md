@@ -15,7 +15,7 @@ https://nbviewer.jupyter.org/github/mbakker7/exploratory_computing_with_python/b
 The Traveling Salesperson Problem
 https://nbviewer.jupyter.org/url/norvig.com/ipython/TSP.ipynb
 
-# =========================================
+# =================
 
 Notebook Examples
 https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/examples_index.html
