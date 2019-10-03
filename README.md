@@ -1,6 +1,5 @@
 # jupyter
 jupyter demo codes
-
 https://nbviewer.jupyter.org/
 
 Exploratory Computing with Python
